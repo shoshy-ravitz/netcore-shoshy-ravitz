@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "swimmingLwssons", "swimmingLwssons\swimmingLwssons.csproj", "{FC725A19-BA55-4FAE-BBE5-8A6B035010DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{D5635035-91DE-43AF-9A07-BFBAA54139CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC725A19-BA55-4FAE-BBE5-8A6B035010DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC725A19-BA55-4FAE-BBE5-8A6B035010DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC725A19-BA55-4FAE-BBE5-8A6B035010DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC725A19-BA55-4FAE-BBE5-8A6B035010DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5635035-91DE-43AF-9A07-BFBAA54139CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5635035-91DE-43AF-9A07-BFBAA54139CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5635035-91DE-43AF-9A07-BFBAA54139CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5635035-91DE-43AF-9A07-BFBAA54139CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007BD963-7DF5-456A-9695-74B3E6F48EC8}
+	EndGlobalSection
+EndGlobal
